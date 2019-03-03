@@ -1,0 +1,19 @@
+{
+  "name": "pdbpackage",
+  "version": "1.0.0",
+  "description": "Automation Tests",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://araju595@bitbucket.org/araju595/newtest.git"
+  },
+  "author": "Krishna Raju Alluri",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/araju595/newtest#readme",
+  "dependencies": {
+    "nodemailer": "^5.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "SAASURL":"https://dev-portal.pdbenterprise.com/#/auth",
+    "ENTERPRISEURL":"https://sana.dev.pdbenterprise.com/#/auth",
+    "SAASEMAIL":"vvgkrishna.a@axiomio.com",
+    "SAASPASS":"Welcome2018!",
+    "EPEMAIL":"pdb1200.three@gmail.com",
+    "EPPASS":"Welcome2018!",
+    "EPPSOTP":"123456",
+    "SAASOTP":"123456",
+    "enterpriseAccountname":"sana",
+    "enterpriseAccountadminurl":"https://sana.dev.pdbenterprise.com",
+    "enterpriseBillingprofile":"test 4"
+
+}
